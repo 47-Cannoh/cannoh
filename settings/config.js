@@ -14,7 +14,7 @@ global.owner = "254781346242"
 global.namaowner = "cannoh"
 
 //~~~~~~~~~ Setting Channel ~~~~~~~~~~//
-global.namach = "Lord eagle version 2"
+global.namach = "cannoh v1"
 global.linkch = "https://whatsapp.com/channel/0029VarDt9t30LKL1SoYXy26"
 global.idch = "120363398454335106@newsletter"
 
