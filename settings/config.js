@@ -2,7 +2,7 @@
 ╭────────────────────────────────────────
 │ GitHub   : https://github.com/r-serex
 │ YouTube  : https://youtube.com/@zxruzx
-│ WhatsApp : https://wa.me/6288980698613
+│ WhatsApp : https://254781346242
 │ Telegram : https://rujekaciw.t.me
 ╰─────────────────────────────────────────
 */
@@ -10,8 +10,8 @@
 const fs = require('fs')
 
 //~~~~~~~~~ Setting Owner ~~~~~~~~~~//
-global.owner = "254717459770"
-global.namaowner = "LordEagle"
+global.owner = "254781346242"
+global.namaowner = "cannoh"
 
 //~~~~~~~~~ Setting Channel ~~~~~~~~~~//
 global.namach = "Lord eagle version 2"
@@ -20,7 +20,7 @@ global.idch = "120363398454335106@newsletter"
 
 //~~~~~~~~~ Setting Packname ~~~~~~~~~~//
 global.packname = "Reboot-x 🦅"
-global.author = "https://wa.me/254717459770"
+global.author = "https://wa.me/254781346242
 
 //~~~~~~~~~ Setting Status ~~~~~~~~~~//
 global.status = true
@@ -30,7 +30,7 @@ global.welcome = true
 global.KEY = "GET APIKEY elevenlabs.io"
 global.IDVOICE = "GET ON elevenlabs.io"
 
-global.pairing = "Lordnick"
+global.pairing = "cannoh"
 
 //~~~~~~~~~ Setting Message ~~~~~~~~~~//
 global.mess = {
