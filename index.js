@@ -2,7 +2,7 @@
 ╭────────────────────────────────────────
 │ GitHub   : https://github.com/r-serex
 │ YouTube  : https://youtube.com/@zxruzx
-│ WhatsApp : https://wa.me/6288980698613
+│ WhatsApp : https://wa.me/254781346242
 │ Telegram : https://rujekaciw.t.me
 ╰─────────────────────────────────────────
 */
